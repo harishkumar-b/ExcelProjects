@@ -1,6 +1,6 @@
 # Sales Performance Dashboard using MS Excel
 
-## Introduction:
+## About:
 -  The project is an interactive sales dashboard that focuses on sales manager performance, with KPIs that dynamically respond to selected sales manager. Dataset contains all sales transactions of an imaginary company.
 
 ## Tech stack:
